@@ -5,6 +5,7 @@ This project use FetchContent_Declare to get SDL3 and imgui.
 To compile copy and paste in terminal:
 ```
 git clone https://github.com/berkut998/SdlImguiTemplate.git
+cd SdlImguiTemplate
 mkdir build
 cd build 
 cmake ..
